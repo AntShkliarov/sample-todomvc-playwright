@@ -1,0 +1,20 @@
+{
+  "name": "sample-todomvc-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntShkliarov/sample-todomvc-playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntShkliarov/sample-todomvc-playwright/issues"
+  },
+  "homepage": "https://github.com/AntShkliarov/sample-todomvc-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0"
+  }
+}
